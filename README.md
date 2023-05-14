@@ -44,3 +44,7 @@ Please make sure to update tests as appropriate.
 
 - This project was inspired by the need to quickly convert between different units of measurement.
 - Thanks to [Bootstrap](https://getbootstrap.com/) for providing a simple and responsive web design framework.
+
+## Authors
+
+- https://github.com/BalajiBathini
